@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086:
 ~~~
-Name : Thamaraiselavan
-Register Number : 212221230115
+Name : SHYAM NAVEEN RAJ
+Register Number : 212221230099
 Date of experiment : 09/09/2022
 ~~~
 ## Aim: 
